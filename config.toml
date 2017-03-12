@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "http://johnallenmcguire.github.io"
 languageCode = "en-US"
 title = "Chris Turner"
 # Enable comments by entering your Disqus shortname
@@ -6,6 +6,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
+publishdir = "johnallenmcguire.github.io"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
